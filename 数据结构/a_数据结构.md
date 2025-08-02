@@ -239,3 +239,65 @@
 #### 5.5.2_2 并查集的进一步优化
 
 ![Alt text](image-47.png)
+
+# 第六章：图
+
+## 6.1 图的基本概念
+
+![Alt text](image-48.png)
+
+## 6.2 图的存储
+
+### 6.2.1 图的邻接矩阵
+
+![Alt text](image-49.png)
+
+### 6.2.2 图的邻接表
+
+![Alt text](image-50.png)
+
+### 6.2.3 十字链表、邻接多重表
+
+![Alt text](image-51.png)
+
+### 6.2.4 图的基本操作
+
+![Alt text](image-52.png)
+
+## 6.3 图的遍历
+
+### 6.3.1 图的广度优先搜索
+
+![Alt text](image-53.png)
+
+### 6.3.2 图的深度优先搜索
+
+![Alt text](image-54.png)
+
+## 6.4 图的应用
+
+### 6.4.1 最小生成树
+
+![Alt text](image-55.png)
+
+### 6.4.2 最短路径问题
+
+#### 6.4.2_1 最短路径问题——BFS 算法
+
+![Alt text](image-56.png)
+
+#### 6.4.2_2 最短路径问题——Dijkstra 算法
+
+#### 6.4.2_3 最短路径问题——Floyd 算法
+
+![Alt text](image-57.png)
+
+### 6.4.3 有向无环图描述表达式
+
+### 6.4.4 拓扑排序
+
+![Alt text](image-58.png)
+
+### 6.4.5 关键路径
+
+![Alt text](image-59.png)
