@@ -301,3 +301,50 @@
 ### 6.4.5 关键路径
 
 ![Alt text](image-59.png)
+
+# 第七章：查找
+
+## 7.1 查找的基本概念
+
+![alt text](image-60.png)
+
+## 7.2 顺序查找和折半查找
+
+### 7.2.1 顺序查找
+
+![alt text](image-61.png)
+
+### 7.2.2 折半查找
+
+![alt text](image-62.png)
+
+### 7.2.3 分块查找
+
+![alt text](image-63.png)
+
+## 7.3 树形查找
+
+### 7.3.1 二叉排序树
+
+![alt text](image-64.png)
+
+### 7.3.2 平衡二叉树
+
+![alt text](image-65.png)
+![alt text](image-66.png)
+
+### 7.3.3 红黑树
+
+![alt text](image-67.png)
+![alt text](image-68.png)
+
+## 7.4 B 树和 B+树
+
+### 7.4.1 B 树
+
+![alt text](image-69.png)
+![alt text](image-70.png)
+
+### 7.4.2 B+树
+
+![alt text](image-71.png)
