@@ -348,3 +348,59 @@
 ### 7.4.2 B+树
 
 ![alt text](image-71.png)
+
+## 7.5 散列表
+
+### 7.5.1 散列表的基本概念
+
+![Alt text](image-72.png)
+
+### 7.5.2 散列函数的构造
+
+![Alt text](image-73.png)
+
+### 7.5.3 处理冲突的方法
+
+![Alt text](image-74.png)
+![Alt text](image-75.png)
+
+### 7.5.4 散列查找的性能分析
+
+![Alt text](image-76.png)
+
+# 第八章：排序
+
+## 8.1 排序的基本概念
+
+![Alt text](image-77.png)
+
+## 8.2 插入排序
+
+### 8.2.1 简单插入排序
+
+![Alt text](image-78.png)
+
+### 8.2.2 希尔排序
+
+![Alt text](image-79.png)
+
+## 8.3 交换排序
+
+### 8.3.1 冒泡排序
+
+![Alt text](image-80.png)
+
+### 8.3.2 快速排序
+
+![Alt text](image-81.png)
+
+## 8.4 选择排序
+
+### 8.4.1 简单选择排序
+
+![Alt text](image-82.png)
+
+### 8.4.2 堆排序
+
+![Alt text](image-83.png)
+![Alt text](image-84.png)
