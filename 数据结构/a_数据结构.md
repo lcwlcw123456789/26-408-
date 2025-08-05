@@ -404,3 +404,35 @@
 
 ![Alt text](image-83.png)
 ![Alt text](image-84.png)
+
+## 8.5 归并排序、基数排序与计数排序
+
+### 8.5.1 归并排序
+
+![Alt text](image-85.png)
+
+### 8.5.2 基数排序
+
+![Alt text](image-86.png)
+
+## 8.6 各种内部排序算法的比较与应用
+
+![Alt text](image-87.png)
+
+## 8.7 外部排序
+
+### 8.7.1（2） 外部排序
+
+![Alt text](image-88.png)
+
+### 8.7.3 败者树
+
+![Alt text](image-89.png)
+
+### 8.7.4 置换-选择排序
+
+![Alt text](image-90.png)
+
+### 8.7.5 最佳归并树
+
+![Alt text](image-91.png)
