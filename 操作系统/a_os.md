@@ -83,3 +83,54 @@
 ### 2.2.3 调度算法的评价指标
 
 ![Alt text](image-28.png)
+
+### 2.2.5 进程调度算法
+
+#### 先来先服务算法
+
+![Alt text](image-30.png)
+
+#### 短作业优先算法
+
+![Alt text](image-31.png)
+
+#### 高响应比优先算法
+
+![Alt text](image-32.png)
+
+#### 时间片轮转算法
+
+![Alt text](image-33.png)
+
+#### 优先级调度算法
+
+![Alt text](image-34.png)
+
+#### 多级反馈队列算法
+
+![Alt text](image-35.png)
+
+#### 多级队列调度算法
+
+![Alt text](image-36.png)
+
+### 2.2.6 多处理机调度
+
+![Alt text](image-37.png)
+
+## 2.3 同步与互斥
+
+### 2.3.1 同步和互斥的基本概念
+
+![Alt text](image-38.png)
+
+### 2.3.2 进程控制的实现方法
+
+![Alt text](image-39.png)
+![Alt text](image-40.png)
+
+### 2.3.3 互斥锁
+
+### 2.3.4 信号量
+
+![Alt text](image-41.png)
