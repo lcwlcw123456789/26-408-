@@ -205,3 +205,25 @@ Max – Allocation = Need 矩阵表示各进程最多还需要多少资源
 ### 3.1.5 段页式管理方式
 
 ![Alt text](image-58.png)
+
+## 3.2 虚拟内存管理
+
+### 3.2.1 虚拟内存的基本概念
+
+![Alt text](image-59.png)
+
+### 3.2.2 请求分页管理方式
+
+![Alt text](image-60.png)
+
+### 3.2.4 页面置换算法
+
+![Alt text](image-61.png)
+
+### 3.2.5 页面分配策略
+
+![Alt text](image-62.png)
+
+### 3.2.6 内存映射文件
+
+![Alt text](image-63.png)
