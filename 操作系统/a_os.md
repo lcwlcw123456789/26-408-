@@ -227,3 +227,58 @@ Max – Allocation = Need 矩阵表示各进程最多还需要多少资源
 ### 3.2.6 内存映射文件
 
 ![Alt text](image-63.png)
+
+# 第四章：文件管理
+
+## 4.1 文件系统基础
+
+### 4.1.1 初识文件系统
+
+![Alt text](image-64.png)
+
+### 4.1.2 文件的逻辑结构
+
+![Alt text](image-65.png)
+
+### 4.1.3 文件目录
+
+![Alt text](image-66.png)
+
+### 4.1.4 文件的物理结构
+
+![Alt text](image-67.png)
+
+### 4.1.5 逻辑结构 VS 物理结构
+
+![Alt text](image-68.png)
+
+### 4.1.6 文件存储空间管理
+
+![Alt text](image-69.png)
+
+### 4.1.7 文件的基本操作
+
+![Alt text](image-70.png)
+
+### 4.1.8 文件共享
+
+![Alt text](image-71.png)
+
+### 4.1.9 文件保护
+
+![Alt text](image-72.png)
+
+## 4.3 文件系统
+
+### 4.3.1 文件系统的层次结构
+
+![Alt text](image-73.png)
+
+### 4.3.2 文件系统布局
+
+![Alt text](image-74.png)
+
+### 4.3.3 虚拟文件系统
+
+![Alt text](image-75.png)
+![Alt text](image-76.png)
