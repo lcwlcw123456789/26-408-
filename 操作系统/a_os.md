@@ -282,3 +282,63 @@ Max – Allocation = Need 矩阵表示各进程最多还需要多少资源
 
 ![Alt text](image-75.png)
 ![Alt text](image-76.png)
+
+# 第五章：输入/输出管理
+
+## 5.1 I/O 管理概述
+
+### 5.1.1 I/O 设备的基本概念和分类
+
+![Alt text](image-77.png)
+
+### 5.1.2 I/O 控制器
+
+![Alt text](image-78.png)
+
+### 5.1.3 I/O 控制方式
+
+![Alt text](image-79.png)
+
+### 5.1.4 I/O 软件层次结构
+
+![Alt text](image-80.png)
+
+## 5.2 设备独立性软件
+
+### 5.2.1 I/O 核心子系统
+
+![Alt text](image-81.png)
+
+### 5.2.2 假脱机技术（SPOOLING）
+
+![Alt text](image-82.png)
+
+### 5.2.3 设备的分配与回收
+
+![Alt text](image-83.png)
+
+### 5.2.4 缓冲区管理
+
+![Alt text](image-84.png)
+
+## 5.3 磁盘
+
+### 5.3.1 磁盘结构
+
+![Alt text](image-85.png)
+
+### 5.3.2 磁盘调度算法
+
+![Alt text](image-86.png)
+
+### 5.3.3 减少磁盘延迟的方法
+
+![Alt text](image-87.png)
+
+### 5.3.4 磁盘的管理
+
+![Alt text](image-88.png)
+
+### 5.3.5 固态硬盘
+
+![Alt text](image-89.png)
