@@ -138,6 +138,107 @@
 
 ### 2.3.5 信号量的典型问题
 
+读者写者
+
+#### 读者优先：
+
+```c
+// 初始化
+// 初始化
+semaphore mutex = 1;     // 控制 readcount
+semaphore wmutex = 1;    // 控制写者互斥
+int readcount = 0;
+
+// 读者进程
+P(mutex);
+    readcount++;
+    if (readcount == 1)  // 第一个读者到来
+        P(wmutex);       // 阻止写者
+V(mutex);
+
+... // 读操作
+
+P(mutex);
+    readcount--;
+    if (readcount == 0)  // 最后一个读者离开
+        V(wmutex);       // 允许写者写
+V(mutex);
+
+// 写者进程
+P(wmutex);
+... // 写操作
+V(wmutex);
+```
+
+#### 写者优先：
+
+```c
+// 初始化
+semaphore mutex = 1;      // 控制 readcount
+semaphore wmutex = 1;     // 控制写操作
+semaphore rsem = 1;       // 控制读者能否进入（关键）
+int readcount = 0;
+
+// 读者进程
+P(rsem);                  // 额外的等待机制
+    P(mutex);
+        readcount++;
+        if (readcount == 1)
+            P(wmutex);    // 阻止写者
+    V(mutex);
+V(rsem);                  // 保证公平进入
+
+... // 读操作
+
+P(mutex);
+    readcount--;
+    if (readcount == 0)
+        V(wmutex);
+V(mutex);
+
+// 写者进程
+P(rsem);                  // 阻止新的读者进入
+    P(wmutex);
+        ... // 写操作
+    V(wmutex);
+V(rsem);
+```
+
+#### 公平方案：
+
+```c
+// 初始化
+semaphore queue = 1;     // 请求队列，保证先来先服务
+semaphore mutex = 1;     // 控制 readcount
+semaphore wmutex = 1;    // 控制写操作
+int readcount = 0;
+
+// 读者进程
+P(queue);                // 进入队列，保证先来先服务
+    P(mutex);
+        readcount++;
+        if (readcount == 1)
+            P(wmutex);   // 阻止写者
+    V(mutex);
+V(queue);                // 出队列，允许下一个进程排队
+
+... // 读操作
+
+P(mutex);
+    readcount--;
+    if (readcount == 0)
+        V(wmutex);
+V(mutex);
+
+// 写者进程
+P(queue);                // 进入队列，保证先来先服务
+    P(wmutex);
+        ... // 写操作
+    V(wmutex);
+V(queue);                // 出队列
+
+```
+
 ### 2.3.6 管程
 
 ![Alt text](image-43.png)
