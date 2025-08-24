@@ -1,3 +1,100 @@
+# 第一章：计算机系统概述
+
+## 1.1 计算机发展历程
+
+## 1.2 计算机系统层次结构
+
+### 1.2.1 硬件的基本组成
+
+![alt text](image-12.png)
+
+### 1.2.2 硬件的工作原理
+
+![alt text](image-13.png)
+
+### 1.2.3 计算机软件
+
+![alt text](image-14.png)
+
+### 1.2.4 计算机系统层次结构
+
+![alt text](image-15.png)
+
+### 1.2.5 计算机系统工作原理
+
+![alt text](image-16.png)
+
+## 1.3 计算机性能指标
+
+![alt text](image-17.png)
+
+# 第二章：数据的表示和运算
+
+## 2.1 数制与编码
+
+### 2.1.1 进位计数制
+
+![alt text](image-18.png)
+
+### 2.1.2 定点数的编码表示
+
+![alt text](image-19.png)
+
+### 2.1.4 C 语言的整数类型
+
+![alt text](image-20.png)
+
+## 2.2 运算方法和运算电路
+
+### 2.2.1 加法器与算术逻辑单元 ALU
+
+加法器
+![alt text](image-21.png)
+ALU
+![alt text](image-22.png)
+
+### 2.2.2 定点数的移位运算
+
+![alt text](image-23.png)
+
+### 2.2.3 加减法运算
+
+![alt text](image-24.png)
+![alt text](image-25.png)
+![alt text](image-26.png)
+
+### 2.2.4 乘除法运算
+
+#### 2.2.4.1 无符号整数乘法
+
+![alt text](image-27.png)
+
+#### 2.2.4.2 有符号整数乘法
+
+![alt text](image-28.png)
+
+#### 2.2.4.3 乘法的三种实现方法
+
+![alt text](image-29.png)
+
+#### 2.2.4.4 无符号数除法原理
+
+![alt text](image-30.png)
+
+## 2.3 浮点数的表示与运算
+
+### 2.3.1 浮点数的表示
+
+![alt text](image-31.png)
+![alt text](image-32.png)
+![alt text](image-34.png)
+![alt text](image-33.png)
+
+### 2.3.2 数据的排列与存储
+
+![alt text](image-35.png)
+![alt text](image-36.png)
+
 # 第六章：总线
 
 ## 6.1 总线概述
