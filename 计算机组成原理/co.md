@@ -95,6 +95,62 @@ ALU
 ![alt text](image-35.png)
 ![alt text](image-36.png)
 
+# 第三章：存储系统
+
+## 3.1 存储系统的基本概念
+
+![alt text](image-37.png)
+
+## 3.2 主存储器
+
+### 3.2.1 主存储器的基本组成
+
+![alt text](image-38.png)
+
+### 3.2.2 SRAM 和 DRAM
+
+![alt text](image-39.png)
+
+### 3.2.3 只读存储器 ROM
+
+![alt text](image-40.png)
+
+### 3.2.4 双端口 RAM 和多模块存储器
+
+![alt text](image-41.png)
+
+## 3.3 主存与 CPU 的连接
+
+![alt text](image-42.png)
+
+## 3.4 外存储器
+
+### 3.4.1 磁盘存储器
+
+![alt text](image-43.png)
+
+### 3.4.2 固态硬盘
+
+![alt text](image-44.png)
+
+## 3.5 高速缓冲存储器
+
+### 3.5.1 cache 的基本原理
+
+![alt text](image-45.png)
+
+### 3.5.2 cache 和主存的映射方式
+
+![alt text](image-46.png)
+
+### 3.5.3 cache 替换算法
+
+![alt text](image-47.png)
+
+### 3.5.4 cache 写策略
+
+![alt text](image-48.png)
+
 # 第六章：总线
 
 ## 6.1 总线概述
