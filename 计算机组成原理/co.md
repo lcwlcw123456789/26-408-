@@ -183,6 +183,28 @@ ALU
 
 ![Alt text](image-54.png)
 
+## 4.3 程序的机器代码表示
+
+### 4.3.1 高级语言与机器级代码的对应
+
+![Alt text](image-55.png)
+![Alt text](image-56.png)
+![Alt text](image-57.png)
+![Alt text](image-58.png)
+
+### 4.3.2 选择语句的机器级表示
+
+![Alt text](image-59.png)
+
+### 4.3.3 循环语句的机器级表示
+
+![Alt text](image-60.png)
+![Alt text](image-61.png)
+
+## 4.4 CISC 与 RISC
+
+![Alt text](image-62.png)
+
 # 第六章：总线
 
 ## 6.1 总线概述
