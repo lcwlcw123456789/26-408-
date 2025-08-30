@@ -205,6 +205,39 @@ ALU
 
 ![Alt text](image-62.png)
 
+# 第五章 中央处理器
+
+## 5.1 CPU 的功能和基本结构
+
+![alt text](image-63.png)
+
+## 5.2 指令执行过程
+
+![alt text](image-64.png)
+
+## 5.3 数据通路的功能和基本结构
+
+![alt text](image-65.png)
+
+## 5.4 控制器的功能和工作原理
+
+### 5.4.1 硬布线控制器的设计
+
+![alt text](image-66.png)
+
+### 5.4.2 微程序控制器的基本原理
+
+![alt text](image-67.png)
+
+### 5.4.3 微指令的设计
+
+![alt text](image-68.png)
+
+### 5.4.4 微程序控制单元的设计
+
+![alt text](image-70.png)
+![alt text](image-69.png)
+
 # 第六章：总线
 
 ## 6.1 总线概述
