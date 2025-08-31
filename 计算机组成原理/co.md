@@ -238,6 +238,30 @@ ALU
 ![alt text](image-70.png)
 ![alt text](image-69.png)
 
+## 5.6 指令流水线
+
+### 5.6.1 指令流水线的基本概念
+
+![alt text](image-71.png)
+
+### 5.6.2 指令流水线的影响因素和分类
+
+![alt text](image-72.png)
+
+### 5.6.3 五段式指令流水线
+
+![alt text](image-73.png)
+
+## 5.7 多处理器
+
+### 5.7.1 多处理器的基本概念
+
+![alt text](image-74.png)
+
+### 5.7.2 硬件多线程
+
+![alt text](image-75.png)
+
 # 第六章：总线
 
 ## 6.1 总线概述
