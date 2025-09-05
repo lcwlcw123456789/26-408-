@@ -102,3 +102,56 @@
 ### 3.4.5 三种协议的信道利用率分析
 
 ![alt text](image-22.png)
+
+## 3.5 介质访问控制
+
+### 3.5.1 信道划分介质访问控制
+
+![alt text](image-23.png)
+
+### 3.5.2 随机访问介质访问控制
+
+#### 3.5.2.1 ALOHA 协议
+
+![alt text](image-24.png)
+
+#### 3.5.2.2 CSMA CD 协议
+
+![alt text](image-25.png)
+
+#### 3.5.2.3 CSMA CA 协议
+
+![alt text](image-26.png)
+![alt text](image-27.png)
+
+### 3.5.3 令牌传递协议
+
+![alt text](image-28.png)
+
+## 3.6 局域网
+
+### 3.6.1 局域网与 IEEE 802
+
+![alt text](image-29.png)
+
+### 3.6.2 局域网的基本概念和体系结构
+
+![alt text](image-30.png)
+
+### 3.6.3 以太网与 IEEE 802.3
+
+![alt text](image-31.png)
+
+### 3.6.4 IEEE 802.11 无线局域网
+
+![alt text](image-32.png)
+
+### 3.6.5 VLAN 的基本概念与基本原理
+
+![alt text](image-33.png)
+
+## 3.7 广域网
+
+![alt text](image-34.png)
+
+## 3.8 以太网交换机
