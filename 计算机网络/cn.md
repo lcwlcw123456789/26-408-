@@ -155,3 +155,46 @@
 ![alt text](image-34.png)
 
 ## 3.8 以太网交换机
+
+![alt text](image-35.png)
+
+# 第四章：网络层
+
+## 4.1 网络层功能
+
+![alt text](image-36.png)
+
+## 4.2 IPV4
+
+### 4.2.1 IPV4 分组
+
+![alt text](image-37.png)
+
+### 4.2.2 IP 地址
+
+![alt text](image-38.png)
+
+### 4.2.3 子网划分与子网掩码
+
+![alt text](image-39.png)
+![alt text](image-40.png)
+
+### 4.2.5 路由聚合
+
+![alt text](image-41.png)
+
+### 4.2.6 DHCP 协议
+
+![alt text](image-42.png)
+
+### 4.2.7 NAT
+
+![alt text](image-43.png)
+
+### 4.2.8 ARP 协议
+
+![alt text](image-44.png)
+
+### 4.2.9 ICMP 协议
+
+![alt text](image-45.png)
