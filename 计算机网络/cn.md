@@ -198,3 +198,29 @@
 ### 4.2.9 ICMP 协议
 
 ![alt text](image-45.png)
+
+## 4.3 IPV6
+
+![alt text](image-46.png)
+
+## 4.4 路由算法与路由协议
+
+### 4.4.1 路由算法
+
+![alt text](image-47.png)
+
+### 4.4.2 分层次的路由协议
+
+![alt text](image-48.png)
+
+### 4.4.3 RIP 路由信息协议
+
+![alt text](image-49.png)
+
+## 4.5 IP 多播
+
+![alt text](image-50.png)
+
+## 4.6 移动 IP
+
+![alt text](image-51.png)
