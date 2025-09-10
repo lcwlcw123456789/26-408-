@@ -224,3 +224,42 @@
 ## 4.6 移动 IP
 
 ![alt text](image-51.png)
+
+# 第五章：传输层
+
+## 5.1 传输层提供的服务
+
+![alt text](image-55.png)
+![alt text](image-52.png)
+
+## 5.2 UDP 协议
+
+### 5.2。1 UDP 数据报
+
+![alt text](image-53.png)
+
+### 5.2.2 UDP 校验
+
+![alt text](image-54.png)
+
+## 5.3 TCP 协议
+
+### 5.3.1 TCP 数据报
+
+![alt text](image-56.png)
+![alt text](image-57.png)
+
+### 5.3.3 TCP 连接管理
+
+![alt text](image-58.png)
+![alt text](image-59.png)
+![alt text](image-60.png)
+
+### 5.3.4 TCP 可靠传输、流量控制
+
+![alt text](image-61.png)
+
+### 5.3.6 TCP 拥塞控制
+
+![alt text](image-62.png)
+![alt text](image-63.png)
