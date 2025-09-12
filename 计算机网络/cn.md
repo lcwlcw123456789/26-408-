@@ -263,3 +263,26 @@
 
 ![alt text](image-62.png)
 ![alt text](image-63.png)
+
+# 第六章：应用层
+
+## 6.1 网络应用模型
+
+Client-Server 模型
+P2P 模型
+
+## 6.2 域名系统 DNS
+
+![alt text](image-64.png)
+
+## 6.3 FTP 文件传输
+
+![alt text](image-65.png)
+
+## 6.4 电子邮件
+
+![alt text](image-66.png)
+
+## 6.5 WWW 和 HTTP
+
+![alt text](image-67.png)
